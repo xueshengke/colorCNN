@@ -1,0 +1,13 @@
+# ignore files except *.fig or *.m
+!\*.fig
+\*.m
+
+*.m~
+
+*.mat
+# /DeepLearnToolbox/*.m~
+# /DeepLearnToolbox/*.md
+# /DeepLearnToolbox/*.sh
+# /DeepLearnToolbox/LICENSE
+# /DeepLearnToolbox/*.yml
+# /DeepLearnToolbox/data
